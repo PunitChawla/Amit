@@ -271,11 +271,20 @@ nav ul li a:hover {
         grid-template-columns: 1fr;
     }
     .about{
-        font-size: 7px;
+        font-size: 5px;
     }
     .about h1{
         /* color: #ffd700; */
         font-size: medium;
+    }
+    .profile{
+        border: 2px solid red;
+        width: 40%;
+    }
+    .profile img {
+        width: 119px;
+        border-radius: 50%;
+        margin-bottom: 20px;
     }
 }
 
